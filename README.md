@@ -5,7 +5,7 @@ Currently, I continue to publish OSS at [github.com/Cysharp](https://github.com/
 I strive to provide cutting-edge libraries that are always mindful of performance and modern APIs.  
 As the original author of MessagePack for C#, I also continue to maintain it in the [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) Organization.
 
-If you want to support me, please see [GitHub Sponsors](https://github.com/sponsors/neuecc)
+If you want to support me, please see [GitHub Sponsors](https://github.com/sponsors/neuecc)  
 If your company want to consult about C#, please contact to [ils@neue.cc](mailto:ils@neue.cc) or X(@neuecc) DM.
 
 Here are currently my primary focus for C# OSS.
